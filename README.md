@@ -320,4 +320,4 @@ MIT License
 
 ## 📧 Support
 
-For support, email support@example.com or open an issue in the repository.
+For support, jonasamidu@gmail.com or open an issue in the repository.
